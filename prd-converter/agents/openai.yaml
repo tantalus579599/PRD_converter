@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD Converter"
+  short_description: "把需求材料提炼成编码 Agent 可执行 PRD"
+  default_prompt: "Use $prd-converter to turn my rough requirement or PRD into a concise Vibe Coding PRD for Claude Code or Codex."
+
+policy:
+  allow_implicit_invocation: true
